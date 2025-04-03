@@ -1,0 +1,1 @@
+I sometimes look into this repository to remind myself how some Vue things are done, e.g., syntax and file structuring.
